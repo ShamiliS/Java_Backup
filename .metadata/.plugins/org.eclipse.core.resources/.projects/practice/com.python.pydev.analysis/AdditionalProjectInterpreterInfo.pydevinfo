@@ -1,0 +1,36 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\shsriniv\eclipse-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\practice\com.python.pydev.analysis\v2_indexcache
+funct2|1522881334772192000|C:\Users\shsriniv\eclipse-workspace\practice\funct2.py
+funct3|1522880998626773000|C:\Users\shsriniv\eclipse-workspace\practice\funct3.py
+function1|1522881216579248000|C:\Users\shsriniv\eclipse-workspace\practice\function1.py
+lamb|1523622985934353000|C:\Users\shsriniv\eclipse-workspace\practice\lamb.py
+json_test|1522885982461128000|C:\Users\shsriniv\eclipse-workspace\practice\json_test.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+6=funct2
+1=C:\Users\shsriniv\eclipse-workspace\practice\function1.py
+2=function1
+5=C:\Users\shsriniv\eclipse-workspace\practice\funct2.py
+8=lamb
+3=C:\Users\shsriniv\eclipse-workspace\practice\json_test.py
+7=C:\Users\shsriniv\eclipse-workspace\practice\lamb.py
+4=json_test
+-- END DICTIONARY
+-- START TREE 1
+10
+cal|4|calculator_sub!1^14#5*18@calculat_div!1^30#5*18@calculator_mul!1^22#5*18@calcuator_add!1^9#5*18@
+hea|1|headers!3^13#1*35@
+jso|1|json_output!3^12#1*35@
+key|2|keyval!3^16#1*35@key!3^21#8*35@
+lis|3|listresult!5^14#1*51@listCheck!1^33#5*18@listofvalues!5^12#1*51@
+res|4|response!3^15#1*35@result!5^9#1*51@result!1^19#1*19@results!7^18#1*67@
+stu|1|student_tuples!7^6#1*67@
+url|1|url!3^11#1*35@
+val|1|value!3^22#8*35@
+var|1|var!7^12#1*67@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

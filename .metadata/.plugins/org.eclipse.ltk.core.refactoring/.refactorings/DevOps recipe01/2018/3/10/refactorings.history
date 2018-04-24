@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;DevOps recipe01/src/test/java/DevOps_recipe01/runner/TestRun.java&apos; to &apos;TestNGRun.java&apos;" description="Rename resource &apos;TestRun.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/test/java/DevOps_recipe01/runner/TestRun.java" name="TestNGRun.java" stamp="1520435581521" updateReferences="true"/>
+</session>

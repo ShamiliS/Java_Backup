@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/lib/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="lib/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="lib/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="lib/OOXML/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/OOXML/stax-api-1.0-2.jar"/>
+	<classpathentry kind="lib" path="lib/OOXML/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/POI/poi-3.17.jar" sourcepath="C:/Users/shsriniv/.m2/repository/org/apache/poi/poi/3.17/poi-3.17-sources.jar"/>
+	<classpathentry kind="lib" path="lib/POI/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/POI/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/POI/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/POI/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/POI/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

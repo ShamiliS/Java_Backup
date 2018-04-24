@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;DataDiscoveryTool/src/com/DataDiscoveryTool/Servlet/testing.java&apos; to &apos;Patternmatch.java&apos;" description="Rename resource &apos;testing.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/DataDiscoveryTool/Servlet/testing.java" name="Patternmatch.java" stamp="1523523683420" updateReferences="true"/>
+</session>

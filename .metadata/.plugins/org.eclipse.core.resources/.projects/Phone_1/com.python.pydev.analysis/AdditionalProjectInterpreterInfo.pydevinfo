@@ -1,0 +1,30 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\shsriniv\eclipse-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Phone_1\com.python.pydev.analysis\v2_indexcache
+Phone_Package.Pots|1523265387920519000|C:\Users\shsriniv\eclipse-workspace\Phone_1\Phone_Package\Pots.py
+Phone_Package.G3|1523228097781612000|C:\Users\shsriniv\eclipse-workspace\Phone_1\Phone_Package\G3.py
+Phone_Package.__init__|1523270145314516000|C:\Users\shsriniv\eclipse-workspace\Phone_1\Phone_Package\__init__.py
+Phone_Package.Isdn|1523228096343053000|C:\Users\shsriniv\eclipse-workspace\Phone_1\Phone_Package\Isdn.py
+-- END DISKCACHE
+-- START DICTIONARY
+8
+8=Phone_Package.Pots
+2=Phone_Package.G3
+6=Phone_Package.__init__
+7=C:\Users\shsriniv\eclipse-workspace\Phone_1\Phone_Package\Pots.py
+4=Phone_Package.Isdn
+5=C:\Users\shsriniv\eclipse-workspace\Phone_1\Phone_Package\__init__.py
+1=C:\Users\shsriniv\eclipse-workspace\Phone_1\Phone_Package\G3.py
+3=C:\Users\shsriniv\eclipse-workspace\Phone_1\Phone_Package\Isdn.py
+-- END DICTIONARY
+-- START TREE 1
+5
+g3p|1|G3Phone!1^10#5*18@
+isd|1|IsdnPhone!3^10#5*34@
+lst|1|lst!5^15#1*51@
+pot|1|PotsPhone!7^10#5*66@
+tes|1|testing!7^13#5*66@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

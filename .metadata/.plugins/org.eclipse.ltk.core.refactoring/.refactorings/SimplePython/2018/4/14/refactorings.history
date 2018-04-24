@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;SimplePython/Browser/chromeBrowser.py&apos; to &apos;chrome.py&apos;" description="Rename resource &apos;chromeBrowser.py&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Browser/chromeBrowser.py" name="chrome.py" stamp="1522856653057" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;SimplePython/Browser&apos; to &apos;Animals&apos;" description="Rename resource &apos;Browser&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Browser" name="Animals" stamp="1522858873389" updateReferences="true"/>
+</session>

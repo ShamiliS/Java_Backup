@@ -1,0 +1,12 @@
+
+public class chk {
+	
+	public static void main(String arg[]) {
+		String str="abcabcabcbbabbcabcbcaabcabcbbcccacbabc";
+
+		String s[]=str.split("abc");
+
+		System.out.println(s.length);
+	}
+
+}

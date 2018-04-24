@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;DataDiscoveryTool/WebContent/result&apos; to &apos;result.jsp&apos;" description="Rename resource &apos;result&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/result" name="result.jsp" stamp="1521479837273" updateReferences="true"/>
+</session>

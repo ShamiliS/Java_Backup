@@ -1,0 +1,14 @@
+1520270939605	Delete resource 'DevOps recipe01/TestData/testdata.xml'
+1520336819516	Delete resource 'DevOps recipe01/TestData'
+1520341277019	Delete resource 'DevOps recipe01/src/test/java/DevOps_recipe01/Steps/NavisionPage.java'
+1520341286016	Delete resource 'DevOps recipe01/src/test/java/DevOps_recipe01/Steps/FetchDataFromExcel.java'
+1520343517679	Delete resource 'DevOps recipe01/target/classes'
+1520345628462	Delete resource 'DevOps recipe01/src/test/java/DevOps_recipe01/Steps/NavisionPage.java'
+1520346088880	Delete 5 resources
+1520433050006	Delete resource 'DevOps recipe01/target/classes'
+1520433061067	Delete 7 resources
+1520504265874	Delete resource 'DataDiscoveryTool/src/com/DataDiscoveryTool/Servlet/ConnectionServlet.java'
+1520513339213	Delete resource 'DataDiscoveryTool/src/com/DataDiscoveryTool/Connection/ConnectionUtils.java'
+1520518431800	Delete resource 'DataDiscoveryTool/WebContent/DisplayTable.jsp'
+1520520855194	Delete resource 'DataDiscoveryTool/WebContent/Schema&ListofTables.jsp'
+1520521464578	Delete resource 'DataDiscoveryTool/WebContent/WEB-INF/lib/ojdbc14-10.2.0.3.0.jar'

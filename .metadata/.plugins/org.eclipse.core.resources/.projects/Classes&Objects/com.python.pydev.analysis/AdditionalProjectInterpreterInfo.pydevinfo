@@ -1,0 +1,33 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\shsriniv\eclipse-workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\Classes&Objects\com.python.pydev.analysis\v2_indexcache
+School|1523319031557032000|C:\Users\shsriniv\eclipse-workspace\Classes&Objects\School.py
+Employee|1523317930036511000|C:\Users\shsriniv\eclipse-workspace\Classes&Objects\Employee.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+4=School
+2=Employee
+3=C:\Users\shsriniv\eclipse-workspace\Classes&Objects\School.py
+5=Employee.__init__
+1=C:\Users\shsriniv\eclipse-workspace\Classes&Objects\Employee.py
+6=School.__init__
+-- END DICTIONARY
+-- START TREE 1
+4
+emp|2|Employee!1^8#7*17@emp1!1^23#1*19@
+lis|1|list!3^35#1*35@
+sch|2|sch1!3^30#1*35@School!3^9#7*33@
+str|1|str!3^32#1*35@
+-- END TREE
+-- START TREE 2
+8
+__i|2|__init__!2&1^11#9*18@__init__!4&3^13#9*34@
+dis|3|displayEmployee!2&1^17#9*18@displayStaffinfo!4&3^22#9*34@displayStudinfo!4&3^19#9*34@
+emp|1|empCount!2&1^9#5*19@
+nam|1|name!5&1^13#9*19@
+sal|1|salary!5&1^14#9*19@
+sch|1|schoolname!4&3^11#5*35@
+sta|2|staff_name!6&3^17#9*35@staff_id!6&3^16#9*35@
+stu|2|stud_name!6&3^15#9*35@stud_id!6&3^14#9*35@
+-- END TREE

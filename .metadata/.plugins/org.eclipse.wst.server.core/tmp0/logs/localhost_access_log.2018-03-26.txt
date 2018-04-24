@@ -1,0 +1,13 @@
+127.0.0.1 - - [26/Mar/2018:10:01:03 +0100] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [26/Mar/2018:10:01:05 +0100] "GET /DataDiscoveryTool/ HTTP/1.1" 200 1807
+0:0:0:0:0:0:0:1 - - [26/Mar/2018:10:01:05 +0100] "GET /DataDiscoveryTool/images/Data.jpg HTTP/1.1" 200 2741204
+0:0:0:0:0:0:0:1 - - [26/Mar/2018:10:01:05 +0100] "GET /DataDiscoveryTool/images/Data.jpg HTTP/1.1" 206 1037281
+0:0:0:0:0:0:0:1 - - [26/Mar/2018:10:01:22 +0100] "GET /DataDiscoveryTool/ HTTP/1.1" 200 1807
+0:0:0:0:0:0:0:1 - - [26/Mar/2018:10:01:25 +0100] "GET /DataDiscoveryTool/images/Data.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [26/Mar/2018:10:01:25 +0100] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [26/Mar/2018:10:01:43 +0100] "POST /DataDiscoveryTool/RetrieveData HTTP/1.1" 200 396
+0:0:0:0:0:0:0:1 - - [26/Mar/2018:10:01:43 +0100] "GET /DataDiscoveryTool/ListofTable.jsp HTTP/1.1" 200 1840
+0:0:0:0:0:0:0:1 - - [26/Mar/2018:10:01:43 +0100] "GET /DataDiscoveryTool/images/database.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [26/Mar/2018:10:01:43 +0100] "GET /DataDiscoveryTool/Patterns.jsp HTTP/1.1" 200 1913
+0:0:0:0:0:0:0:1 - - [26/Mar/2018:10:02:09 +0100] "POST /DataDiscoveryTool/RetrievePatternData HTTP/1.1" 200 1206
+0:0:0:0:0:0:0:1 - - [26/Mar/2018:10:02:09 +0100] "GET /DataDiscoveryTool/images/result.jpg HTTP/1.1" 304 -

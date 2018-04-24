@@ -1,0 +1,22 @@
+import java.util.Arrays;
+
+public class sequence {
+	public static void main(String arg[]) {
+		int arr[] = { 1, 4, 1, 4, 2, 1, 3, 5, 6, 2, 3, 7 };
+		int temp = 0;
+		System.out.println(arr.length);
+		Arrays.sort(arr);
+
+		/*for (int i = 0; i < (arr.length) - 1; i++) {
+			if (arr[i] > arr[i + 1]) {
+				temp = arr[i];
+				arr[i] = arr[i + 1];
+				arr[i + 1] = temp;
+			}
+		}
+*/
+		for (int j = 0; j < (arr.length) - 1; j++) {
+			System.out.println(arr[j]);
+		}
+	}
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://java.sun.com/xml/ns/javaee"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
+	id="WebApp_ID" version="3.0">
+	<display-name>DataDiscoveryTool</display-name>
+	<welcome-file-list>
+		<welcome-file>Database.jsp</welcome-file>
+		<welcome-file>Frames.jsp</welcome-file>
+		<welcome-file>ListofTable.jsp</welcome-file>
+	</welcome-file-list>
+
+	<servlet>
+		<servlet-name>Database</servlet-name>
+		<servlet-class>com.DataDiscoveryTool.Servlet.RetrieveDataServlet</servlet-class>
+	</servlet>
+	<servlet>
+		<servlet-name>PatternMatching</servlet-name>
+		<servlet-class>com.DataDiscoveryTool.Servlet.PatternMatchingServlet</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>Database</servlet-name>
+		<url-pattern>/RetrieveData</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>PatternMatching</servlet-name>
+		<url-pattern>/RetrievePatternData</url-pattern>
+	</servlet-mapping>
+</web-app>

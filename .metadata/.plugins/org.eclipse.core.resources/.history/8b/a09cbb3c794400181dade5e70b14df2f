@@ -1,0 +1,6 @@
+for i in [1, 2, 3, 4, 5]:
+    for j in [1, 2, 3, 4, 5]:
+        if j == 4 and i == 4:  
+            print("Element found")  
+    break  
+    print(i,)  

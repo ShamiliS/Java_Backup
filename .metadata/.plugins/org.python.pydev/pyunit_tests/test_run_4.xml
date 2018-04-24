@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pydev-testrun version="1.0"?><pydev-testsuite>
+<summary errors="1" failures="0" finished="true" name="Test Run: 4" tests="0" total_time="Finished in: 0.00 secs."/>
+<test location="C:/Users/shsriniv/eclipse-workspace/SimplePython/GoldSachs/maxOccurence.py" status="error" test="eclipse-workspace.SimplePython.GoldSachs.maxOccurence" time="0">
+<stdout/>
+<stderr><![CDATA[Traceback (most recent call last):
+  File "C:\Users\shsriniv\eclipse\java-oxygen2\eclipse\configuration\org.eclipse.osgi\181\data\-262972083\plugins\org.python.pydev.core_6.3.2.201803171248\pysrc\_pydev_runfiles\pydev_runfiles.py", line 468, in __get_module_from_str
+    mod = __import__(modname)
+  File "C:\Users\shsriniv\eclipse-workspace\SimplePython\GoldSachs\maxOccurence.py", line 5
+    input.ch
+        ^
+IndentationError: expected an indented block
+ERROR: Module: eclipse-workspace.SimplePython.GoldSachs.maxOccurence could not be imported (file: C:/Users/shsriniv/eclipse-workspace/SimplePython/GoldSachs/maxOccurence.py).
+]]></stderr>
+</test>
+<launch mode="run">
+<launch_memento><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration local="true" path="SimplePython GoldSachs"/>
+]]></launch_memento>
+</launch>
+</pydev-testsuite>
